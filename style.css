@@ -1,4 +1,16 @@
 <body> {background-color:#383D58}
 <title>Document</title> 
 <link rel="Stylesheet" href="style.css">
+body {background-color: #383D58;color: white;}
+header {background-color: #383D58;color: white;}
+.cabecalho-imagem{width: 20%;}
+<header class=”cabecalho”>
+<img class="cabecalho-imagem" src="./img/alurastar.png" alt="logo da alurastart">
+<ul class="cabecalho-lista-item”>
+<li>Estudante</li>
+<li>Escola</li>
+</ul>
+
+
+
 
